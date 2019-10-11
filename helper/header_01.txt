@@ -1,0 +1,11 @@
+HTTP/1.1 200 
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ1c2VybmFtZV8wMSIsImV4cCI6MTU3MTY3MzY3NH0.N7Kgvv4k7eXtU_Hk6hCvLqH-02mnuHLOmmpBI7ZArpetYDrm7RWCPt4wNWyfO_4c3AVIXsCsbyV3vmVVexFCrw
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+X-Frame-Options: DENY
+Content-Length: 0
+Date: Fri, 11 Oct 2019 16:01:14 GMT
+

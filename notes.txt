@@ -1,0 +1,11 @@
+
+
+Added some helper files.
+The helper folder contains json and scripts to help manual testing.
+Start application. Then:
+
+Run ./helper/manual_test_01.sh (make sure proper permission is set) to go through application as authorized user.
+These should be successful.
+
+Run ./helper/manual_test_02.sh (make sure proper permission is set) to go through application without authorization.
+These should all display 'forbidden' error message.

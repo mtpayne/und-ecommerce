@@ -1,3 +1,5 @@
 {
-  "username":"username_01"
+  "username":"username_01",
+  "password":"password_01",
+  "confirmPassword":"password_01"
 }
