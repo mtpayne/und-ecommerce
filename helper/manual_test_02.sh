@@ -1,4 +1,12 @@
 
+#
+# Get user by id
+echo "Create user. Check log for error message"
+curl -H "Accept: application/json" -H "Content-Type: application/json" -d @helper/user_create_02.json http://localhost:8080/api/user/create
+echo
+echo
+sleep 1
+
 # All these should be forbidden
 # Get user by id
 echo "Get user by id"
